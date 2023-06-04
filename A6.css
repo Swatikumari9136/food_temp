@@ -1,0 +1,107 @@
+*{
+       margin: 0;
+       height: 0;
+       box-sizing: border-box;
+       color: rgb(185, 178, 178);
+}
+body{
+       height: 100%;
+       width: 100%;
+       background-color: black;
+       position: fixed;
+}
+h1{
+       position: absolute;
+       top: 11%;
+       left: 7%;
+       font-size: 24px;
+       font-family: 'Times New Roman', Times, serif;
+}
+h3{
+       position: absolute;
+       top: 37%;
+       left: 5%;
+       font-size: 19px;
+       font-family:'Times New Roman', Times, serif;
+       font-weight: bold;
+      color: rgb(215, 206, 206)
+}
+.lmiddle{
+       position: absolute;
+       top: 45%;
+       left: 5%;
+       font-size: 38px;
+       font-family:'Times New Roman', Times, serif;
+       font-weight: 400;
+       color: rgb(185, 178, 178);
+}
+div{
+       position: absolute;
+       top: 56%;
+       left: 5%;
+       height: 75px;
+       width: 650px;
+}
+div h5{
+       position: absolute;
+       font-size: 15px;
+       font-family: 'Times New Roman', Times, serif;
+}
+h4{
+       position: absolute;
+       top: 67%;
+       left: 5%;
+       font-size: 19px;
+       font-family:'Times New Roman', Times, serif;
+       color: rgb(215, 206, 206)
+}
+ul{
+       position: absolute;
+       display: flex;
+       justify-content: space-between;
+       list-style-type: none;
+       left: 2%;
+       bottom: 15%;
+       height: 35px;
+       width: 185px;
+}
+ul li{
+       position: relative;
+       font-family:'Times New Roman', Times, serif;
+       font-size: 12px;
+}
+.img1{
+       position: absolute;
+       top: 0%;
+       left: 49%;
+       height: 26%;
+       width: 21%;
+}
+.img1:hover{
+       height: 30%;
+       width: 24%;
+}
+.img2{
+       position: absolute;
+       top: 35%;
+       left: 54%;
+       height: 22%;
+       width: 17%;
+}
+.img2:hover{
+       height: 26%;
+       width: 21%;
+}
+.img3{
+       position: absolute;
+       top: 5%;
+       left: 73.5%;
+       height: 85%;
+       width: 40%;
+}
+.img3:hover{
+       height: 89%;
+       width: 46%;
+}
+
+
